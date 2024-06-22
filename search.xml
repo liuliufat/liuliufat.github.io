@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>2.1进程与线程</title>
-      <link href="/post/18f00400.html"/>
-      <url>/post/18f00400.html</url>
+      <title>第五章</title>
+      <link href="/post/17bf8c68.html"/>
+      <url>/post/17bf8c68.html</url>
       
-        <content type="html"><![CDATA[<h2 id="21-进程与线程"><a class="markdownIt-Anchor" href="#21-进程与线程">#</a> 2.1 进程与线程</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406221734535.png">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406221734535.png</a></p><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">include&lt;stdio.h&gt;</span><br><span class="line"><span class="type">int</span> main&#123;</span><br><span class="line"><span class="type">int</span> Binary <span class="title function_">Search</span><span class="params">(SSTable L,ElemType key)</span>&#123;</span><br><span class="line"><span class="type">int</span> low=<span class="number">0</span>,high=L.TableLen<span class="number">-1</span>,mid;</span><br><span class="line"><span class="keyword">while</span>(low&lt;=high)&#123;</span><br><span class="line">mid=(low+high)/<span class="number">2</span>;</span><br><span class="line">∥取中间位置</span><br><span class="line"><span class="keyword">if</span> (L.elem [mid]==key)&#123;</span><br><span class="line"><span class="keyword">return</span> mid;    ∥查找成功则返回所在位置</span><br><span class="line">&#125;<span class="keyword">else</span> <span class="keyword">if</span>(L.elem [mid]&gt;key)&#123;</span><br><span class="line">high=mid<span class="number">-1</span>;    ∥从前半部分继续查找</span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">low=mid+<span class="number">1</span>;</span><br><span class="line">∥从后半部分继续查找</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">return</span></span><br><span class="line"><span class="number">-1</span>；</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br><span class="line">∥查找失败，返回<span class="number">-1</span></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h2 id="51-io-管理包括计组"><a class="markdownIt-Anchor" href="#51-io-管理包括计组">#</a> 5.1 I/O 管理（包括计组）</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222304262.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222304262.pdf</a></p>]]></content>
       
       
       <categories>
@@ -23,16 +23,54 @@
     
     
     <entry>
-      <title>第二篇</title>
-      <link href="/post/43748377.html"/>
-      <url>/post/43748377.html</url>
+      <title>第三章</title>
+      <link href="/post/cf0c504a.html"/>
+      <url>/post/cf0c504a.html</url>
       
-        <content type="html"><![CDATA[<p>三端口交换机世纪东方海金沙房间号大健康发货时间红烧豆腐 sdj、撒打算大商股份东方闪电 f</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="31-内存管理"><a class="markdownIt-Anchor" href="#31-内存管理">#</a> 3.1 内存管理</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222252339.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222252339.pdf</a></p><h2 id="32-虚拟内存管理"><a class="markdownIt-Anchor" href="#32-虚拟内存管理">#</a> 3.2 虚拟内存管理</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222253493.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222253493.pdf</a></p>]]></content>
       
       
       <categories>
           
-          <category> c </category>
+          <category> 操作系统 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二章</title>
+      <link href="/post/18f00400.html"/>
+      <url>/post/18f00400.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="21-进程与线程"><a class="markdownIt-Anchor" href="#21-进程与线程">#</a> 2.1 进程与线程</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222246799.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222246799.pdf</a></p><h2 id="22-cpu-调度"><a class="markdownIt-Anchor" href="#22-cpu-调度">#</a> 2.2 CPU 调度</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222246800.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222246800.pdf</a></p><h2 id="23-同步与互斥"><a class="markdownIt-Anchor" href="#23-同步与互斥">#</a> 2.3 同步与互斥</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222238237.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222238237.pdf</a></p><h2 id="24-死锁"><a class="markdownIt-Anchor" href="#24-死锁">#</a> 2.4 死锁</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222242142.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222242142.pdf</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 操作系统 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第四章</title>
+      <link href="/post/18f00400.html"/>
+      <url>/post/18f00400.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="41-文件系统基础-42-目录文件"><a class="markdownIt-Anchor" href="#41-文件系统基础-42-目录文件">#</a> 4.1 文件系统基础 4.2 目录文件</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222300322.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222300322.pdf</a></p><h2 id="43-文件系统"><a class="markdownIt-Anchor" href="#43-文件系统">#</a> 4.3 文件系统</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222300222.pdf">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406222300222.pdf</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 操作系统 </category>
           
       </categories>
       
@@ -59,27 +97,14 @@
     </entry>
     
     
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/post/4a17b156.html"/>
-      <url>/post/4a17b156.html</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start">#</a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post">#</a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server">#</a> Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files">#</a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites">#</a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
   
   
     
     
     <entry>
-      <title>小刘的关于页</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>小刘的分类页aaaa</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -88,9 +113,9 @@
     
     
     <entry>
-      <title>小刘的分类页aaaa</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>小刘的关于页</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
