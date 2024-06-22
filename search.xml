@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>2.1进程与线程</title>
+      <link href="/post/18f00400.html"/>
+      <url>/post/18f00400.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="21-进程与线程"><a class="markdownIt-Anchor" href="#21-进程与线程">#</a> 2.1 进程与线程</h2><p><a href="https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406221734535.png">https://cdn.jsdelivr.net/gh/liuliufat/picgo/img/202406221734535.png</a></p><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">include&lt;stdio.h&gt;</span><br><span class="line"><span class="type">int</span> main&#123;</span><br><span class="line"><span class="type">int</span> Binary <span class="title function_">Search</span><span class="params">(SSTable L,ElemType key)</span>&#123;</span><br><span class="line"><span class="type">int</span> low=<span class="number">0</span>,high=L.TableLen<span class="number">-1</span>,mid;</span><br><span class="line"><span class="keyword">while</span>(low&lt;=high)&#123;</span><br><span class="line">mid=(low+high)/<span class="number">2</span>;</span><br><span class="line">∥取中间位置</span><br><span class="line"><span class="keyword">if</span> (L.elem [mid]==key)&#123;</span><br><span class="line"><span class="keyword">return</span> mid;    ∥查找成功则返回所在位置</span><br><span class="line">&#125;<span class="keyword">else</span> <span class="keyword">if</span>(L.elem [mid]&gt;key)&#123;</span><br><span class="line">high=mid<span class="number">-1</span>;    ∥从前半部分继续查找</span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">low=mid+<span class="number">1</span>;</span><br><span class="line">∥从后半部分继续查找</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">return</span></span><br><span class="line"><span class="number">-1</span>；</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br><span class="line">∥查找失败，返回<span class="number">-1</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 操作系统 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第二篇</title>
       <link href="/post/43748377.html"/>
       <url>/post/43748377.html</url>
@@ -58,11 +77,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>小刘的关于页</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -80,11 +99,11 @@
     
     
     <entry>
-      <title>小刘的关于页</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}]]></content>
       
     </entry>
     
