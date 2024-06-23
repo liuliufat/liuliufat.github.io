@@ -102,9 +102,9 @@
     
     
     <entry>
-      <title>小刘的关于页</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>小刘的分类页aaaa</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -113,9 +113,9 @@
     
     
     <entry>
-      <title>小刘的分类页aaaa</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>小刘的关于页</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
