@@ -8,7 +8,7 @@
       <link href="/post/17bf8c68.html"/>
       <url>/post/17bf8c68.html</url>
       
-        <content type="html"><![CDATA[<h2 id="51-io-管理包括计组"><a class="markdownIt-Anchor" href="#51-io-管理包括计组">#</a> 5.1 I/O 管理（包括计组）</h2><p><a href="https://s1.vika.cn/space/2024/06/22/438c65bd694d4241b7fef6bb32969612">https://s1.vika.cn/space/2024/06/22/438c65bd694d4241b7fef6bb32969612</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="51-io-管理包括计组"><a class="markdownIt-Anchor" href="#51-io-管理包括计组">#</a> 5.1 I/O 管理（包括计组）</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/5.1IO%E7%AE%A1%E7%90%86.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/5.1IO 管理.pdf</a></p>]]></content>
       
       
       <categories>
@@ -27,7 +27,7 @@
       <link href="/post/cf0c504a.html"/>
       <url>/post/cf0c504a.html</url>
       
-        <content type="html"><![CDATA[<h2 id="31-内存管理"><a class="markdownIt-Anchor" href="#31-内存管理">#</a> 3.1 内存管理</h2><p><a href="https://s1.vika.cn/space/2024/06/22/4fc848f721864d03b0f59bba3005b849">https://s1.vika.cn/space/2024/06/22/4fc848f721864d03b0f59bba3005b849</a></p><h2 id="32-虚拟内存管理"><a class="markdownIt-Anchor" href="#32-虚拟内存管理">#</a> 3.2 虚拟内存管理</h2><p><a href="https://s1.vika.cn/space/2024/06/22/a3f6f848775e42cf91457e181b7d9900">https://s1.vika.cn/space/2024/06/22/a3f6f848775e42cf91457e181b7d9900</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="31-内存管理"><a class="markdownIt-Anchor" href="#31-内存管理">#</a> 3.1 内存管理</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/3.1%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/3.1 内存管理.pdf</a></p><h2 id="32-虚拟内存管理"><a class="markdownIt-Anchor" href="#32-虚拟内存管理">#</a> 3.2 虚拟内存管理</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/3.2%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/3.2 虚拟内存管理.pdf</a></p>]]></content>
       
       
       <categories>
@@ -46,7 +46,7 @@
       <link href="/post/18f00400.html"/>
       <url>/post/18f00400.html</url>
       
-        <content type="html"><![CDATA[<h2 id="21-进程与线程"><a class="markdownIt-Anchor" href="#21-进程与线程">#</a> 2.1 进程与线程</h2><p><a href="https://s1.vika.cn/space/2024/06/22/922448cb04eb4573b966a15e93ed0eda">https://s1.vika.cn/space/2024/06/22/922448cb04eb4573b966a15e93ed0eda</a></p><h2 id="22-cpu-调度"><a class="markdownIt-Anchor" href="#22-cpu-调度">#</a> 2.2 CPU 调度</h2><p><a href="https://s1.vika.cn/space/2024/06/22/866031ceda5c463c9a76b57cfd0bf181">https://s1.vika.cn/space/2024/06/22/866031ceda5c463c9a76b57cfd0bf181</a></p><h2 id="23-同步与互斥"><a class="markdownIt-Anchor" href="#23-同步与互斥">#</a> 2.3 同步与互斥</h2><p><a href="https://s1.vika.cn/space/2024/06/22/5aba3614981d46e59b69832b38687265">https://s1.vika.cn/space/2024/06/22/5aba3614981d46e59b69832b38687265</a></p><h2 id="24-死锁"><a class="markdownIt-Anchor" href="#24-死锁">#</a> 2.4 死锁</h2><p><a href="https://s1.vika.cn/space/2024/06/22/d8c001d21a2546e184b6cdba28a38496">https://s1.vika.cn/space/2024/06/22/d8c001d21a2546e184b6cdba28a38496</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="21-进程与线程"><a class="markdownIt-Anchor" href="#21-进程与线程">#</a> 2.1 进程与线程</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/2.1%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/2.1 进程与线程.pdf</a></p><h2 id="22-cpu-调度"><a class="markdownIt-Anchor" href="#22-cpu-调度">#</a> 2.2 CPU 调度</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/2.2CPU%E8%B0%83%E5%BA%A6.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/2.2CPU 调度.pdf</a></p><h2 id="23-同步与互斥"><a class="markdownIt-Anchor" href="#23-同步与互斥">#</a> 2.3 同步与互斥</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/2.3%E5%90%8C%E6%AD%A5%E4%B8%8E%E4%BA%92%E6%96%A5.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/2.3 同步与互斥.pdf</a></p><h2 id="24-死锁"><a class="markdownIt-Anchor" href="#24-死锁">#</a> 2.4 死锁</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/2.4%E6%AD%BB%E9%94%81.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/2.4 死锁.pdf</a></p>]]></content>
       
       
       <categories>
@@ -65,7 +65,7 @@
       <link href="/post/18f00400.html"/>
       <url>/post/18f00400.html</url>
       
-        <content type="html"><![CDATA[<h2 id="41-文件系统基础-42-目录文件"><a class="markdownIt-Anchor" href="#41-文件系统基础-42-目录文件">#</a> 4.1 文件系统基础 4.2 目录文件</h2><p><a href="https://s1.vika.cn/space/2024/06/22/dd68f582a2c843b58e15f5311d59b57e">https://s1.vika.cn/space/2024/06/22/dd68f582a2c843b58e15f5311d59b57e</a></p><h2 id="43-文件系统"><a class="markdownIt-Anchor" href="#43-文件系统">#</a> 4.3 文件系统</h2><p><a href="https://s1.vika.cn/space/2024/06/22/5931e9cbf50448d2b7bd18b444f03ae5">https://s1.vika.cn/space/2024/06/22/5931e9cbf50448d2b7bd18b444f03ae5</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="41-文件系统基础-42-目录文件"><a class="markdownIt-Anchor" href="#41-文件系统基础-42-目录文件">#</a> 4.1 文件系统基础 4.2 目录文件</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/4.1%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%204.2%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/4.1 文件系统基础 4.2 目录文件.pdf</a></p><h2 id="43-文件系统"><a class="markdownIt-Anchor" href="#43-文件系统">#</a> 4.3 文件系统</h2><p><a href="https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/4.3%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.pdf">https://jsd.onmicrosoft.cn/gh/liuliufat/picgo-file/img/4.3 文件系统.pdf</a></p>]]></content>
       
       
       <categories>
@@ -124,9 +124,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>小刘的分类页aaaa</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -135,9 +135,9 @@
     
     
     <entry>
-      <title>小刘的分类页aaaa</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
